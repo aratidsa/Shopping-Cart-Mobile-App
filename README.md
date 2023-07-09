@@ -9,7 +9,7 @@
 **Features**
 1. The User can add as well as delete items from the shopping List
 
-**Live URL :-** 
+**Live URL :-** https://shopping-cart-mobile-app-design.netlify.app/
 
 **ScreenShots**
 
